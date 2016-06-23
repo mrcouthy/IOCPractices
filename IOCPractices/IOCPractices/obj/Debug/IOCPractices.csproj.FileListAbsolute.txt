@@ -1,0 +1,17 @@
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\IOCPractices.exe.config
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\IOCPractices.exe
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\IOCPractices.pdb
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\obj\Debug\IOCPractices.csprojResolveAssemblyReference.cache
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\obj\Debug\IOCPractices.exe
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\obj\Debug\IOCPractices.pdb
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Autofac.dll
+D:\Public Data\Github\IOCPractices\IOCPractices\IOCPractices\bin\Debug\Autofac.xml

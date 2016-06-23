@@ -1,0 +1,6 @@
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\bin\Debug\ResolverDemo.exe.config
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\bin\Debug\ResolverDemo.exe
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\bin\Debug\ResolverDemo.pdb
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\obj\Debug\ResolverDemo.csprojResolveAssemblyReference.cache
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\obj\Debug\ResolverDemo.exe
+D:\Public Data\Github\IOCPractices\IOCPractices\ResolverDemo\obj\Debug\ResolverDemo.pdb
