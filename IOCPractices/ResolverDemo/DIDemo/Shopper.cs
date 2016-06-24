@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ResolverDemo
 {
-    public class Shopper
+    public interface IShopper
+    {
+        void DoShopping();
+    }
+    public class Shopper : IShopper
     {
         private readonly ICreditCard creditCard;
 
@@ -15,8 +19,10 @@ namespace ResolverDemo
             this.creditCard = creditCard;
         }
 
-        public void Charge()
+        public void DoShopping()
         {
+            //Add items
+            //...
             var chargeMessage = creditCard.Charge();
             Console.WriteLine(chargeMessage);
         }

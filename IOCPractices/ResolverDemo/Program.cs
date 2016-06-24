@@ -16,7 +16,7 @@ namespace ResolverDemo
             resolver.Register<ICreditCard, Visa>();
 
             var shopper = resolver.Resolve<Shopper>();
-            shopper.Charge();
+            shopper.DoShopping();
 
             Console.Read();
         }

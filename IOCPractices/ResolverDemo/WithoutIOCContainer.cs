@@ -12,7 +12,7 @@ namespace ResolverDemo
         {
             var visa = new Visa();
             var shopper = new Shopper(visa);
-            shopper.Charge();
+            shopper.DoShopping();
             Console.Read();
         }
     }
