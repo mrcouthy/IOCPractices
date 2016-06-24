@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCPractices", "IOCPractices\IOCPractices.csproj", "{B0E79188-F0E9-4C94-9D33-1F0965A7F3C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverDemo", "ResolverDemo\ResolverDemo.csproj", "{9925B033-E6F4-440F-B405-7FA85C6F9DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{9F1A6C77-768B-4E2E-BDE5-EEDC91B29B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacDemo", "AutoFacDemo\AutoFacDemo.csproj", "{CA64C765-AD3B-44B9-BA52-B9C72A4711B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{9925B033-E6F4-440F-B405-7FA85C6F9DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9925B033-E6F4-440F-B405-7FA85C6F9DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9925B033-E6F4-440F-B405-7FA85C6F9DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1A6C77-768B-4E2E-BDE5-EEDC91B29B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1A6C77-768B-4E2E-BDE5-EEDC91B29B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1A6C77-768B-4E2E-BDE5-EEDC91B29B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1A6C77-768B-4E2E-BDE5-EEDC91B29B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA64C765-AD3B-44B9-BA52-B9C72A4711B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA64C765-AD3B-44B9-BA52-B9C72A4711B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA64C765-AD3B-44B9-BA52-B9C72A4711B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA64C765-AD3B-44B9-BA52-B9C72A4711B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
